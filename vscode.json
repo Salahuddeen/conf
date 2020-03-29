@@ -1,0 +1,11 @@
+{
+	"terminal.integrated.shell.linux": "/usr/bin/env",
+	"terminal.integrated.shellArgs.linux": [
+        	"--",
+        	"flatpak-spawn",
+        	"--host",
+        	"bash"
+	],
+	"editor.fontFamily": "'Iosevka Nerd Font Mono','TerminessTTF Nerd Font','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+	"editor.fontLigatures": true
+}
