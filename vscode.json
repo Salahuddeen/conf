@@ -1,11 +1,24 @@
 {
-	"terminal.integrated.shell.linux": "/usr/bin/env",
-	"terminal.integrated.shellArgs.linux": [
-        	"--",
-        	"flatpak-spawn",
-        	"--host",
-        	"bash"
-	],
-	"editor.fontFamily": "'Iosevka Nerd Font Mono','TerminessTTF Nerd Font','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
-	"editor.fontLigatures": true
+    "terminal.integrated.shell.linux": "/usr/bin/env",
+    "terminal.integrated.shellArgs.linux": [
+        "--",
+        "flatpak-spawn",
+        "--host",
+        "bash"
+    ],
+    "workbench.colorTheme": "Abyss",
+    "workbench.iconTheme": "helium-icon-theme",
+    "editor.fontFamily": "'Iosevka Nerd Font Mono','TerminessTTF Nerd Font Mono','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily":"TerminessTTF Nerd Font Mono",
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontWeightBold": "normal",
+    "[go]": {
+        "editor.formatOnSave": true
+    },
+    "go.vetOnSave": "package",
+    "go.lintOnSave": "file",
+    "go.formatTool": "gofmt",
+    "go.lintTool": "golint"
 }
