@@ -1,11 +1,4 @@
 {
-    "terminal.integrated.shell.linux": "/usr/bin/env",
-    "terminal.integrated.shellArgs.linux": [
-        "--",
-        "flatpak-spawn",
-        "--host",
-        "bash"
-    ],
     "workbench.colorTheme": "Abyss",
     "workbench.iconTheme": "helium-icon-theme",
     "editor.fontFamily": "'Iosevka Nerd Font Mono','TerminessTTF Nerd Font Mono','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
