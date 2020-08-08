@@ -4,7 +4,7 @@ This is a dotfiles repo.
 
 These are the configurations that I use on my Personal Machine.
 
-For bash prompt I use [Spaceship](https://starship.rs/)
+For bash prompt I use [Starship](https://starship.rs/)
 Yes, there is a Zshrc. But I use bash.
 
 For window manager: [i3](https://i3wm.org/)
