@@ -5,15 +5,16 @@ This is a dotfiles repo.
 These are the configurations that I use on my Personal Machine.
 
 For bash prompt I use [Starship](https://starship.rs/)
-Yes, there is a Zshrc. But I use bash.
 
-For window manager: [i3](https://i3wm.org/)
+For window manager: [i3](https://i3wm.org/) - Plain old i3. no gaps, or sway.
 
-### Terminal: [uRxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
+### Terminals: 
+ * [uRxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
+ * [alacritty](https://github.com/alacritty/alacritty)
+ * [gnome terminal](https://help.gnome.org/users/gnome-terminal/stable/)
 
 ### Editors:
 There are multiple entries here; I use what isn't broken for what I'm doing.
-* [Atom](https://atom.io/)
 * [VSCode](https://code.visualstudio.com/)
 * [NeoVim](https://neovim.io/)
 
@@ -28,9 +29,7 @@ There are multiple entries here; I use what isn't broken for what I'm doing.
 Note: I list original fonts, but I actually use the [nerdfont](https://www.nerdfonts.com/#home) variants of them. They can be found [here](https://www.nerdfonts.com/font-downloads)
 
 ### Browser:
-* [Brave](https://brave.com/)
 * [Google Chrome](https://www.google.com/chrome)
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ### Current Distro:
-![Fedora Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg)
+![Manjaro Logo](https://upload.wikimedia.org/wikipedia/commons/f/fd/Logo_manjaro.png)
