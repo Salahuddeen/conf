@@ -8,7 +8,7 @@ For bash prompt I use [Starship](https://starship.rs/)
 
 For window manager: [i3](https://i3wm.org/) - Plain old i3. no gaps, or sway.
 
-### Terminals: 
+### Terminals:
  * [uRxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
  * [alacritty](https://github.com/alacritty/alacritty)
  * [gnome terminal](https://help.gnome.org/users/gnome-terminal/stable/)
@@ -32,4 +32,4 @@ Note: I list original fonts, but I actually use the [nerdfont](https://www.nerdf
 * [Google Chrome](https://www.google.com/chrome)
 
 ### Current Distro:
-![Manjaro Logo](https://upload.wikimedia.org/wikipedia/commons/f/fd/Logo_manjaro.png)
+![OpenSuse Logo](https://upload.wikimedia.org/wikipedia/commons/4/49/OpenSUSE_Tumbleweed_green_logo.svg)
